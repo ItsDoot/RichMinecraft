@@ -5,8 +5,9 @@ import io.github.xdotdash.richminecraft.config.Config;
 import io.github.xdotdash.richminecraft.config.DisplayDataManager;
 import io.github.xdotdash.richminecraft.config.display.ServerDisplay;
 import io.github.xdotdash.richminecraft.config.display.SmallDataDisplay;
+import io.github.xdotdash.richminecraft.util.MiscUtil;
 
-import static io.github.xdotdash.richminecraft.TimeUtil.epochSecond;
+import static io.github.xdotdash.richminecraft.util.TimeUtil.epochSecond;
 
 public class PresenceManager {
 

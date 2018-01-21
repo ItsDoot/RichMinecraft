@@ -1,4 +1,4 @@
-package io.github.xdotdash.richminecraft;
+package io.github.xdotdash.richminecraft.util;
 
 public class TimeUtil {
 
